@@ -160,4 +160,8 @@ cython_debug/
 #.idea/
 .DS_Store
 *.csv
+*.zip
+*.pdf
+*.parquet
+
 
