@@ -28,5 +28,11 @@ What are possible problems you want to look into?
 How are yu going to look for that information?
 	
 	look at all documentation at source web page ...
+	apply techniques from her videos ...
+	
+	
+	
+	how to navigate microaggressions
+	
 	
 	
